@@ -203,7 +203,7 @@ $('#clearImage').click(function() {
   }
 });
 
-$('.toggleBackground').click(function() {
+$('#toggleBackground').click(function() {
   $('#myCanvas').toggleClass('whiteBG');
 });
 
